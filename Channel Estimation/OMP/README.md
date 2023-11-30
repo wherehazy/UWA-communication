@@ -1,2 +1,2 @@
-# Channel estimation related algorithms  
-## OMP Channel estimation OMP信道估计算法
+## OMP Channel estimation  
+## OMP信道估计算法
